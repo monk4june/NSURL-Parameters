@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
  s.name         = "NSURL-Parameters"
- s.version      = "1.0.1"
+ s.version      = "1.0.0"
  s.platform     = :ios, "6.0"
  s.summary      = "Category to access the URL Parameters within your NSURL"
  s.homepage     = "https://github.com/monk4june/NSURL-Parameters"
